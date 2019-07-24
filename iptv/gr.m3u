@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.woodtv.com/wp-content/uploads/sites/51/2019/05/woodtv_digitalbrand-min.png" group-title="News",#WoodTV8
+https://dcs-live.apis.anvato.net/server/play/5AwdN6JC9YZSpYjw/rendition.m3u8?track=video-2&anvsid=i177602978-n861818c8-abfc-4537-becc-7d69a5a856c9
